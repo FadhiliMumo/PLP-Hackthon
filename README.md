@@ -1,5 +1,5 @@
 # PLP-Hackthon
-The repository contains a hackthon activity
+The repository contains a hackthon activity a webpage fit only for landscape layout/ pc view.
 The following project was made successful by two devoted student developers Fadhili Mumo (fadhilimumo3673@gmail.com) and Salome Ogeya  (salomeogeya@gmail.com)
 The following simple project is a portfolio developed in html.
 It is divided into five major sections;   
@@ -9,6 +9,7 @@ It is divided into five major sections;
     The fourth contains the Projects in development.
 
     1. The user interface
+The display is oriented only for pc view.
 The user interface is developed to be user friendly that most of the users attention with the ease of use and visual presentation.
 The user inteface is logically architectured for ease of use.  
 five colors were used all visually related and gives the user general satisfaction and the urge to interact with the product.
